@@ -77,7 +77,7 @@ char menuDisplay[] = {"\r\n USER LEDS ON 	    --> 1 \
 					   \r\n USER LEDS OFF 	    --> 2 \
 					   \r\n READ LIS3DSH DATA 	    --> 3 \
 					   \r\n READ BMP180 DATA	    --> 4 \
-					   \r\n\n Choose you option here : "};
+					   \r\n\n Choose your option here : "};
 
 char *firstMessage = "Hello, press ENTER to start the system!";		// Giris mesaji
 int typeOfMsg = 0;													// queue kontrolu icin tanimlandi
